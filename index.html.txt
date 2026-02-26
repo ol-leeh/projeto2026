@@ -1,2 +1,3 @@
 <h1>Projeto 2026</h1>
 <p>Primeira implementação do projeto.</p>
+<p>Nova funcionalidade.</p>
